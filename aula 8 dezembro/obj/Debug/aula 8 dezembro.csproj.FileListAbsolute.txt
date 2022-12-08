@@ -1,0 +1,12 @@
+C:\Users\alex.msantos22\source\repos\aula 8 dezembro\obj\Debug\aula 8 dezembro.csproj.AssemblyReference.cache
+C:\Users\alex.msantos22\source\repos\aula 8 dezembro\obj\Debug\aula 8 dezembro.csproj.SuggestedBindingRedirects.cache
+C:\Users\alex.msantos22\source\repos\aula 8 dezembro\obj\Debug\aula_8_dezembro.Form1.resources
+C:\Users\alex.msantos22\source\repos\aula 8 dezembro\obj\Debug\aula_8_dezembro.Properties.Resources.resources
+C:\Users\alex.msantos22\source\repos\aula 8 dezembro\obj\Debug\aula 8 dezembro.csproj.GenerateResource.cache
+C:\Users\alex.msantos22\source\repos\aula 8 dezembro\obj\Debug\aula 8 dezembro.csproj.CoreCompileInputs.cache
+C:\Users\alex.msantos22\source\repos\aula 8 dezembro\bin\Debug\aula 8 dezembro.exe.config
+C:\Users\alex.msantos22\source\repos\aula 8 dezembro\bin\Debug\aula 8 dezembro.exe
+C:\Users\alex.msantos22\source\repos\aula 8 dezembro\bin\Debug\aula 8 dezembro.pdb
+C:\Users\alex.msantos22\source\repos\aula 8 dezembro\obj\Debug\aula 8 dezembro.exe
+C:\Users\alex.msantos22\source\repos\aula 8 dezembro\obj\Debug\aula 8 dezembro.pdb
+C:\Users\alex.msantos22\source\repos\aula 8 dezembro\obj\Debug\aula_8_dezembro.Form2.resources
